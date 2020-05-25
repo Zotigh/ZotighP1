@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZotighIdealGasCal", "ZotighP1\ZotighIdealGasCal.csproj", "{757D4358-5A18-4D6F-B3AF-08683FCADFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757D4358-5A18-4D6F-B3AF-08683FCADFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757D4358-5A18-4D6F-B3AF-08683FCADFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757D4358-5A18-4D6F-B3AF-08683FCADFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757D4358-5A18-4D6F-B3AF-08683FCADFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E344111-ADC9-4035-B1B8-01CC0AE2FCC7}
+	EndGlobalSection
+EndGlobal
