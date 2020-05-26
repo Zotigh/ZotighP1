@@ -31,7 +31,9 @@ namespace ZotighIdealGasCal
             //call GetMolecularWeightFromName, returns 
             //check to see 'if' molecular weight is == 0 else return 0
             //else = the gasName was found 
-            //private static double GetDoubleFromUser(string prompt)
+            //private static double GetDoubleFromUser(string prompt) // three times ie the questions please enter etc...
+            //ask for the volume of the gas, the mass of the gas in grams 
+            //and tempature of the gas in celsious
             //call Presssure to get the pressure
             //DisplayPressure, passing in the pressure
             //ask the user if they want to go again dawg? maybe do another function
